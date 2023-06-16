@@ -27,7 +27,10 @@ public class Employee {
         this.anneesExperience = anneesExperience;
     }
 
-    
+    /**
+     * Il y a en dessous les getters et les setters qui permettent l'accès aux données
+     * 
+     */
 
     public String getPrenom() {
         return prenom;

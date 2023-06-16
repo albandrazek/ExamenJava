@@ -6,7 +6,10 @@ import org.junit.jupiter.api.Test;
 import Classes.Employee;
 import Classes.EmployeeManager;
 
-
+/**
+ * Test de la classe Intermediaire5Test.
+ * Elle test si le calcul du salaire est correct selon les paramètres renseignés (5ans dans ce cas).
+ */
 public class Intermediaire5Test {
     @Test
     public void testSalaireJuniorAvec1AnExperience() {
